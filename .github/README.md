@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="[https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg]">
+  <img src="(https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg)">
 </p>
 
 
