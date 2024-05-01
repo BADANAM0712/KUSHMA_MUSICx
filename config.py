@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KING_BHAI_BABY")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KING_BHAI_BABY")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dfgffgggggfdccvffgfbb")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dfgffgggggfdccvffgfbb")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/a932c5cb54bd969dff8c5.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
