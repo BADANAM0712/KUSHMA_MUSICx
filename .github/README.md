@@ -1,14 +1,14 @@
 <h2 align="center">
-    ─「 ˹𝐊ᴜsʜᴍᴀ 𝐌ᴜsɪᴄ˼ ♪ 」─
+    ─「 ˹𝐊𝐔𝐒𝐇𝐌𝐀 𝐌𝐔𝐒𝐈𝐂˼ ♪ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐊𝐔𝐒𝐇𝐌𝐀+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗕𝗔𝗗𝗔𝗡𝗔𝗠+🇧 🇦 🇧 🇾 +😈)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐊𝐔𝐒𝐇𝐌𝐀+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗕𝗔𝗗𝗡𝗔𝗠+🇧 🇦 🇧 🇾 +😈)](https://github.com/KING0712/QUEEN_MUSIC)
 
 
 
 <p align="center">
-  <img src="[https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg]">
+  <img src="https://telegra.ph/file/c9e885b6511eaeeb0d0dd.jpg">
 </p>
 
 
